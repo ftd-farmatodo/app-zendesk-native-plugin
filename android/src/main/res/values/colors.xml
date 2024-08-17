@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="colorPrimary">#418FDE</color>
+    <color name="colorPrimaryDark">#418FDE</color>
+    <color name="colorPrimaryLight">#418FDE</color>
+
+    <color name="colorAccent">#7B7B7B</color>
+    <color name="colorAccentLight">#6EC0CC</color>
+    <color name="textColorSecondary">@color/grey_hard</color>
+
+    <color name="cardFeaturedContent_transparent">#80E0E0E0</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="grey_hard">#96989A</color>
+    <color name="grey_medium">#7B7B7B</color>
+    <color name="grey_soft">#F7F8F8</color>
+    <color name="grey_soft_1">#D6D6D6</color>
+    <color name="grey_soft_alpha">#DDF7F8F8</color>
+    <color name="grey_dark_alpha">#DDA9A9A9</color>
+    <color name="grey_soft_text">#838383</color>
+    <color name="grey_61">#616161</color>
+    <color name="gray_f7f7f7">#f7f7f7</color>
+    <color name="gray_b4">#b4b4b4</color>
+    <color name="gray_b3">#b3b3b3</color>
+    <color name="gray_e9">#e9eaed</color>
+    <color name="gray_8d">#8d8d8d</color>
+    <color name="gray_e5">#e5e5e5</color>
+    <color name="gray_eb">#ebebeb</color>
+    <color name="gray_5b">#5b5b5b</color>
+    <color name="gray_99">#999999</color>
+    <color name="gray_3c_transparent_60">#993c3c43</color>
+    <color name="gray_button_negative">#999999</color>
+    <color name="gray_mostly_white">#fafafa</color>
+    <color name="blue_bright">#418FDE</color>
+    <color name="blue_dark">#0D3057</color>
+    <color name="gray_dark">#747474</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_f8">#f8f8f8</color>
+
+    <color name="grey_separator">#A9A9A9</color>
+    <color name="grey_bg">#EBEFF0</color>
+    <color name="grey_text">#222D31</color>
+
+    <color name="products_item_title">#31343e</color>
+    <color name="products_item_description">#8A8A8A</color>
+
+    <color name="advice_card_title_purple">#b14497</color>
+
+    <color name="farmatodo_jet">#343434</color>
+    <color name="farmatodo_process_blue">#418FDE</color>
+    <color name="farmatodo_snow">#F9F9F9</color>
+    <color name="farmatodo_light_grey">#D6D6D6</color>
+    <color name="farmatodo_grey">#8A8A8A</color>
+
+    <color name="colorPrimaryReg">#3F51B5</color>
+    <color name="colorPrimaryDarkReg">#347FD2</color>
+
+    <color name="colorBG">#2074C9</color>
+    <color name="colorButtonBlue">#2573CC</color>
+    <color name="colorButtonBlueLite">#408FDE</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorHint">#99FFFFFF</color>
+    <color name="colorBlack44">#444444</color>
+    <color name="colorBlack2c">#2c2c2c</color>
+
+    <!--pager circle color-->
+    <color name="fillColor">#428FDE</color>
+    <color name="pageColor">#ADCCED</color>
+    <color name="titleColor">#418EDD</color>
+    <color name="productImageSlider_circleIndicator_fillColor">#b8b8b8</color>
+    <color name="productImageSlider_circleIndicator_pageColor">#e9e9e9</color>
+
+    <!-- Address module colors-->
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="error_label_default">#e02020</color>
+    <color name="error_label_type2">#dd352e</color>
+    <color name="blue_semi_transparent">#22418FDE</color>
+    <color name="white_semi_transparent_80">#CCFFFFFF</color>
+
+    <color name="yellowOffer">#fdd756</color>
+    <color name="blueNoStock">#B33A83D6</color>
+
+    <color name="colorSave">#3fd99b</color>
+    <color name="carritoTotal">#418fde</color>
+
+    <color name="colorLetraTextoAzul">#418fde</color>
+    <color name="colorLetraTextoAzulSecond">#71adea</color>
+
+    <color name="redDelete_pedido">#d82f4b</color>
+    <color name="green_trackingStatus_circle">#0da0a2</color>
+    <color name="green_trackingStatus_background">#14c5c7</color>
+    <color name="green_light_3c">#3cd898</color>
+    <color name="orange_light">#EE6107</color>
+    <color name="green_0e">#0ea5a6</color>
+    <color name="green_transparent_14">#2714c5c7</color>
+    <color name="green_6b">#6bca26</color>
+    <color name="green_moderate">#84d24c</color>
+    <color name="green_dark">#5a9a2e</color>
+    <color name="green_very_dark">#376813</color>
+    <color name="green_very_dark2">#5a7e37</color>
+
+    <color name="green_very_light">#f8fff1</color>
+
+
+
+
+    <color name="twitter_background">#24a9e6</color>
+    <color name="instagram_background">#2a5b83</color>
+
+    <color name="textColor_black">#212121</color>
+    <color name="textColor_black52">#343434</color>
+    <color name="textColor_black52y56">#34343434</color>
+    <color name="textColor_black74">#4A4A4A</color>
+    <color name="textColor_black138">#8A8A8A</color>
+    <color name="textColor_verdeOrders">#3FD99B</color>
+
+    <color name="textColor_blueProfile">#418fde</color>
+    <color name="textColor_blackProfile">#343434</color>
+
+    <color name="text_prescription">#4C6094</color>
+
+    <color name="shadow_grey_banner">#ededed</color>
+    <color name="shadow_grey_arrow">#dedede</color>
+    <color name="red_lifeMiles">#a11931</color>
+    <color name="subscribeAndSave_primary">#f7b500</color>
+    <color name="red_farmatodo">#B10116</color>
+    <color name="button_disabled_default">#ebebeb</color>
+    <color name="bottom_navigation_text_color_default">#8a8a8a</color>
+    <color name="bottom_navigation_text_color_selected">#418FDE</color>
+    <color name="caption_default_color">#f29c1f</color>
+    <color name="toolbar_divider">#dbdbdb</color>
+    <color name="sag_payment_tutorial_message_color">#191d63</color>
+    <color name="sag_tutorial_tooltip_color">#0ca68b</color>
+    <color name="support_online">#6dd400</color>
+    <color name="support_offline">#d9a10c</color>
+    <color name="warning_orange">#ff8f44</color>
+    <color name="photoslurp_description">#616161</color>
+    <color name="pink_month">#fe8bb5</color>
+    <color name="red_geo_grid">#ff0000</color>
+    <color name="red_ligth_geo_grid">#11FF0000</color>
+
+    <color name="chip_color_unselected">#979797</color>
+    <color name="chip_color_selected">@color/colorPrimary</color>
+    <color name="custom_tag_color">#FF0000</color>
+
+    <!-- Coupon status colors -->
+    <color name="coupon_redeemed_success">#418fde</color>
+    <color name="coupon_redeemed_success_text">#707070</color>
+    <color name="coupon_redeemed_failed">#ff3d00</color>
+    <color name="coupon_talon_automatic">#3fd99b</color>
+
+    <color name="credit_card_list_background">#f9f9f9</color>
+    <color name="map_layer_national">#26EE6107</color>
+    <color name="map_layer_national_border">#B3EE6107</color>
+    <color name="map_layer_envialoya">#26007BFF</color>
+    <color name="map_layer_envialoya_border">#B3007BFF</color>
+    <color name="map_layer_express">#66FFFFFF</color>
+    <color name="map_info_envialoya">#007BFF</color>
+    <color name="caption_bg_default_color">#33ffd08c</color>
+    <color name="blue_f7">#f7fbff</color>
+    <color name="non_stock_background">#edf6ff</color>
+
+</resources>
