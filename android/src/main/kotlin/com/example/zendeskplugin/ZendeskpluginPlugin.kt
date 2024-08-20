@@ -148,7 +148,7 @@ class ZendeskpluginPlugin: FlutterPlugin, MethodCallHandler, ActivityAware, Plug
     val chatConfiguration = chatConfigurationBuilder.build()
 
     MessagingActivity.builder()
-    .withToolbarTitle("Contact Us")
+    .withToolbarTitle("Soporte")
     .withEngines(ChatEngine.engine())
     .show(context, chatConfiguration)
   }
